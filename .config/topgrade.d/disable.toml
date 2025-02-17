@@ -1,0 +1,4 @@
+[misc]
+#disable = ["firmware"]
+disable = ["firmware", "flatpak"]
+skip_notify = true
